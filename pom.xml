@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>fullStackAwsWebApp</name>
-	<description>full Stack Aws Web App</description>
+	<description>StartUp Ready Web Skeleton Project</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
